@@ -1,8 +1,8 @@
-<p align="center"><img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Header.png" width="1380px" height="180px"></p>
+<p align="center"><img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Header.png" width="1380px" height="300px"></p>
 
-<h2 align="left">Heya 👋, I'm Abhinav</h2>
+<h2 align="left">Heya 👋, I'm Hirak Basumatary</h2>
 <!--Intro Section-->
-<img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="30%" align="right">
+<img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="25%" align="right">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;PhD in Robotics and Data-Driven Control from IIT Guwahati.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m interested in Data-Driven Control of Robotics, Probabilistic Robotics, Grasping, and Manipulation, all through AI/ML technologies.<br>
