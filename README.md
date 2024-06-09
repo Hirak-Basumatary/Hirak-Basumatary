@@ -3,18 +3,19 @@
 <h2 align="left">Heya 👋, I'm Hirak Basumatary</h2>
 <!--Intro Section-->
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="100%">
+    <p style="margin: 0;"><strong>Robotics AI/ML Code Repeat</strong></p>
+  </div>
   <div style="flex: 4;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;PhD in Robotics and AI-Driven Control from IIT Guwahati.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m interested in Data-Driven Control of Robotics, Probabilistic Robotics, Grasping, and Manipulation, all through AI/ML technologies.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m looking to collaborate on anything related to AI/ML or Robotics Projects<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;How to reach me: 23hirak@gmail.com <br>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="100%">
-    <p style="margin: 0;"><strong>Robotics AI/ML Code Repeat</strong></p>
-  </div>
 </div>
+
 
 
 
