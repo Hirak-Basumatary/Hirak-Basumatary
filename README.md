@@ -11,7 +11,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;How to reach me: 23hirak@gmail.com <br>
     </td>
     <td style="width: 25%; text-align: right; vertical-align: top;">
-      <img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="25%">
+      <img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="100%">
       <p><strong>Robotics AI/ML Code Repeat</strong></p>
     </td>
   </tr>
