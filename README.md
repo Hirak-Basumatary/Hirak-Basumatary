@@ -2,15 +2,20 @@
 
 <h2 align="left">Heya 👋, I'm Hirak Basumatary</h2>
 <!--Intro Section-->
-<div align="right" style="display: inline-block; width: 25%;">
-  <img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="25%">
-  <p><strong>Robotics AI/ML Code Repeat</strong></p>
-</div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;PhD in Robotics and AI-Driven Control from IIT Guwahati.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m interested in Data-Driven Control of Robotics, Probabilistic Robotics, Grasping, and Manipulation, all through AI/ML technologies.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m looking to collaborate on anything related to AI/ML or Robotics Projects<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;How to reach me: 23hirak@gmail.com <br>
+<table>
+  <tr>
+    <td style="width: 75%; vertical-align: top;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;PhD in Robotics and AI-Driven Control from IIT Guwahati.<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m interested in Data-Driven Control of Robotics, Probabilistic Robotics, Grasping, and Manipulation, all through AI/ML technologies.<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;I’m looking to collaborate on anything related to AI/ML or Robotics Projects<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;How to reach me: 23hirak@gmail.com <br>
+    </td>
+    <td style="width: 25%; text-align: right; vertical-align: top;">
+      <img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary/blob/main/Hirak_Coding.gif" width="25%">
+      <p><strong>Robotics AI/ML Code Repeat</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 
